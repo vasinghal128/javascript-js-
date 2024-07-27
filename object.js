@@ -92,4 +92,4 @@ let step4 = step3 + 1; // we want number between 1 to 10 and Math.random() give 
 console.log(`Random number is ${step4}`);
 console.log(`Random number between 1 to 100 is ${Math.floor(Math.random()*100)+1}`); 
 console.log(`Random number between 21 to 25 is ${Math.floor(Math.random()*5)+21}`); // 5 for end at 25 or 24 and 21 for 21 for start at 21 and end at 25
-console.log(`Random number between 21 to 24 is ${Math.floor(Math.random()*5)+20}`); // 5 for end at 25 or 24 and 21 for 21 for start at 20 and end at 24
+console.log(`Random number between 21 to 24 is ${Math.floor(Math.random()*5)+20}`); // 5 for end at 25 or 24 and 21 for 20 for start at 20 and end at 24
