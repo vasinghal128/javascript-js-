@@ -10,7 +10,7 @@ let arr = [1, 2, 3, 4, 5, 6];
 console.log(arrayAverage(arr));
 const isEven = (a) => {
     if(a%2==0){
-        console.log(`${a} is an     even number`)
+        console.log(`${a} is an even number`)
     }
     else{
         console.log(`${a} is not an even number`)
