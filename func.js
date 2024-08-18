@@ -12,7 +12,7 @@ function diceroll(){
     console.log(Math.floor(Math.random()*6)+1)
 }
 diceroll();
-function printinfo(name,age){ // funstion take input name and age in order
+function printinfo(name,age){ // function take input name and age in order
     console.log(`${name}'s age is ${age}`);
 }
 printinfo("Vaibhav",19);
