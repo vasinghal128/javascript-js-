@@ -1,0 +1,20 @@
+body{
+    background-color:pink;
+    color:black}
+button{
+    color: white;
+    margin-left: 15px;
+    background-color: #F51720;
+    border-radius: 15px;
+}
+ul{
+    background-color:lightblue;
+}
+li{
+    margin-bottom: 15px;
+    background-color: lightblue;
+}
+input{
+    background-color:wheat;
+    border-radius: 15px;
+}
